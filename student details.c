@@ -3,7 +3,7 @@ int main(){
     int age,usn;
     char name, clg;
     float weight,height;
-    printf("STUDENT DETAILS\n");
+    printf("=====STUDENT DETAILS=====\n");
     printf("Enter name:");
     scanf("%s",&name);
     printf("Enter your age:");
