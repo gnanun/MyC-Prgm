@@ -5,7 +5,7 @@ int main()
     float roi,SI;
     printf("Enter the  principle amount:");
     scanf("%d",&amt);
-    printf("Enter time:");
+    printf("Enter time(in years):");
     scanf("%d",&Time);
     printf("Enter rate of interest:");
     scanf("%f",&roi);
