@@ -2,7 +2,6 @@
 int a,b,c;
 int large()
 {
-    printf("hi Gnanu!\n");
     if(a>b&&a>c)
     {
         return a;
@@ -17,7 +16,8 @@ int large()
     }
 }
 int main()
-{
+{   
+    printf("hi Gnanu!\n");
     printf("Enter the value of a,b and c:");
     scanf("%d%d%d",&a,&b,&c);
     int result=large(a,b,c);
