@@ -4,8 +4,8 @@ int main()
     int a[5][5],b[5][5],sum[5][5],m,n,i,j;
     printf("Enter the order of matrix:");
     scanf("%d%d",&m,&n);
-    //printf("Enter the order of matrix B:");
-    //scanf("%d%d",&p,&q);
+    printf("Enter the order of matrix B:");
+    scanf("%d%d",&p,&q);
     printf("Enter the elements of matrix A:");
     for(i=0;i<m;i++)
     {
