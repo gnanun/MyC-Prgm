@@ -12,5 +12,5 @@ int main()
     printf("Enter the radius of circle:");
     scanf("%d",&r);
     float  result=areaofcir(r);
-    printf("Area of circle is:%.2f.",result);
+    printf("Area of circle is:%.2f",result);
 }
