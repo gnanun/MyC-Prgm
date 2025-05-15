@@ -2,8 +2,6 @@
 int main()
 {
     int n=5,a[n],b[n],i,j;
-    printf("Enter the value of n:");
-    scanf("%d",&n);
     printf("Enter elements of an array:");
     for(i=0;i<n;i++)
        scanf("%d",&a[i]);
