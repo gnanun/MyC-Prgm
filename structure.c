@@ -6,7 +6,6 @@ struct student{
 };
 int main()
 {
-    int i;
     struct student s;
     printf("Enter your name:");
     scanf("%s",&s.name);
