@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int a[5][5],b[5][5],sum[5][5],m,n,i,j;
+    int a[5][5],b[5][5],sum[5][5],m,n,p,q,i,j;
     printf("Enter the order of matrix:");
     scanf("%d%d",&m,&n);
     printf("Enter the order of matrix B:");
